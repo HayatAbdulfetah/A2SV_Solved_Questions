@@ -1,7 +1,13 @@
 class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
-        count = Counter(nums)
-        for num in count:
-            if count[num] > 1:
-                return True
-        return False
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        left = 0
+        for i in range(1, len(nums)):
+            if nums[i] + nums[left] == target:
+                    return [left , i]
+            else:
+                left += 1
+                if left < i and nums[i] + nums[left] == target:
+                    return [left, i]
+            
+
+        return []
