@@ -16,3 +16,5 @@ for _ in range(t):
         i += 1
     
     print(''.join(sorted(working)))
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1251/A
