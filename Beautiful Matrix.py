@@ -5,3 +5,5 @@ for row in range(5):
         if nums[col] == 1:
             print(abs(row - 2) + abs(col - 2))
             break
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/263/A
