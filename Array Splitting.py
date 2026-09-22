@@ -10,4 +10,4 @@ min_cost = sum(diffs[:n-k]) if k < n else 0
 print(min_cost)
 
 
-# problem's link --> https://codeforces.com/problemset/problem/1197/C
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1197/C
