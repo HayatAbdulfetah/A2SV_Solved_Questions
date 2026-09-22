@@ -16,3 +16,5 @@ for _ in range(t):
         ans = min(ans, count_w)
     
     print(ans)
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1690/D
