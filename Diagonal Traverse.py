@@ -1,4 +1,3 @@
-
 class Solution:
     def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
         hash_map = {}
@@ -18,4 +17,5 @@ class Solution:
             else:
                 ans.extend(hash_map[i])
         print(hash_map)
+        
         return ans
