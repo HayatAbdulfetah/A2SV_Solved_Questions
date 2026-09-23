@@ -35,4 +35,4 @@ for _ in range(q):
     print(pref[b] - pref[a-1])
 
 
-# problem link -->  https://codeforces.com/contest/816/problem/B
+# Codefprces problem link -->  https://codeforces.com/contest/816/problem/B
