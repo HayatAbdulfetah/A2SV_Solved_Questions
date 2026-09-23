@@ -33,3 +33,5 @@ for _ in range(t):
             flip ^= 1
     else:
         print("YES")
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1504/B
