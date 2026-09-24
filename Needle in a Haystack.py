@@ -41,3 +41,5 @@ for _ in range(n):
         result += num
     result += haystack[l:]
     print(result)
+
+# Codeforces prblem link --> https://codeforces.com/problemset/problem/2055/E
