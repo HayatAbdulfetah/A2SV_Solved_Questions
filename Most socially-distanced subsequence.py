@@ -14,4 +14,4 @@ for _ in range(t):
     print(len(ans))
     print(*ans)
 
-# problem link --> https://codeforces.com/problemset/problem/1364/B
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1364/B
