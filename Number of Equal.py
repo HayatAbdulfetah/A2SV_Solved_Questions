@@ -14,3 +14,5 @@ for value in countA:
         total += countA[value] * countB[value]
 
 print(total)
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1188/d
