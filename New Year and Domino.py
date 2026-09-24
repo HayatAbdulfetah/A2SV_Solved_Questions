@@ -44,3 +44,5 @@ for _ in range(q):
         ans += get(ver_ps, r1, c1, r2-1, c2)
 
     print(ans)
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/500/E
