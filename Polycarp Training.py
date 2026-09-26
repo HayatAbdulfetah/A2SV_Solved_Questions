@@ -10,3 +10,5 @@ for i in a:
         continue
 
 print(total)
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1165/B
