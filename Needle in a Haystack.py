@@ -1,4 +1,5 @@
 from collections import Counter
+
 n = int(input())
 for _ in range(n):
     haystack = input()
