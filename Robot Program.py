@@ -37,3 +37,5 @@ for _ in range(t):
         print(1)
     else:
         print(1 + (k - first) // cycle)
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/2070/B
