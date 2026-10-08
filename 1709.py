@@ -27,4 +27,4 @@ for _ in range(t):
     for op in ops:
         print(op[0], op[1])
 
-# Codeforces problem link -->
+# Codeforces problem link --> https://codeforces.com/problemset/problem/2121/D
