@@ -24,6 +24,7 @@ for _ in range(t):
                 ops.append((2, j+1))
     
     print(len(ops))
+    
     for op in ops:
         print(op[0], op[1])
 
