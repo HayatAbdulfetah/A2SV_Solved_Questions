@@ -26,3 +26,5 @@ for _ in range(t):
     print(len(ops))
     for op in ops:
         print(op[0], op[1])
+
+# Codeforces problem link -->
