@@ -11,9 +11,12 @@ class Solution:
             if pattern[i] not in hash_map:
                 if s[i] in unique:
                     return False
+                    
                 hash_map[pattern[i]] = s[i]
                 unique.add(s[i])
+                
             else:
                 if hash_map[pattern[i]] != s[i]:
                     return False
+                    
         return True
