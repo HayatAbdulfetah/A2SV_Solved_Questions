@@ -5,6 +5,7 @@ class Solution:
         max_freq = 0
         ans = 0
         l=len(s)
+        
         for j in range(l):
             freq[s[j]] = freq.get(s[j], 0) +1
             max_freq = max(max_freq, freq[s[j]])
