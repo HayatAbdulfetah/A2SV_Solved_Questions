@@ -7,6 +7,6 @@ class Solution:
         for i in range(k):
             res.append(sorted_count[i][0])
             
-        #x = [sorted_count[i][0] for i in range(k)]
+        # x = [sorted_count[i][0] for i in range(k)]
 
         return res
