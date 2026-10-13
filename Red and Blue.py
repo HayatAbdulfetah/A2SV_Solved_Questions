@@ -22,4 +22,4 @@ for _ in range(t):
     
     print(max_r + max_b)
 
-# codeforces link --> https://codeforces.com/contest/1469/problem/B
+# codeforces problem link --> https://codeforces.com/contest/1469/problem/B
