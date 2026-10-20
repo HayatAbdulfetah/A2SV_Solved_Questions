@@ -16,4 +16,5 @@ class Solution:
                         
                     stack.pop()
                     stack.append(2*score)
+                    
         return sum(stack)
