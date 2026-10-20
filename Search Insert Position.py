@@ -2,6 +2,7 @@ class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         low = 0
         high = len(nums) - 1
+
         if nums[0] >= target:
             return 0
         elif nums[high] < target:
