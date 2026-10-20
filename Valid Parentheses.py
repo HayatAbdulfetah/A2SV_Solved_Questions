@@ -11,4 +11,5 @@ class Solution:
                 res.pop()
             else:
                 return  False
+                
         return len(res) == 0
