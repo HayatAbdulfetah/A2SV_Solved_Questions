@@ -2,6 +2,7 @@ class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         n = len(nums2)
         res = []
+        
         for i in nums1:
             idx = nums2.index(i)
             f = 0
@@ -12,4 +13,5 @@ class Solution:
                     break
             if not f:
                 res.append(-1)
+                
         return res
