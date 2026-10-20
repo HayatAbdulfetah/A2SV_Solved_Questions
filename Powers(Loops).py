@@ -4,4 +4,4 @@ if __name__ == '__main__':
     for i in range(n):
         print(i*i)
 
-# Hackerrank problem link
+# Hackerrank problem link --> https://www.hackerrank.com/challenges/python-loops/problem
