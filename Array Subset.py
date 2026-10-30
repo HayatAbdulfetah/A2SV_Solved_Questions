@@ -8,4 +8,5 @@ class Solution:
         for key in count_b:
             if count_b[key] > count_a.get(key, 0):
                 return False
+
         return True
