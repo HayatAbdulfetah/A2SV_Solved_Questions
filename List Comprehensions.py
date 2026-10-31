@@ -8,3 +8,5 @@ if __name__ == '__main__':
     nums = [x for x in all_permutations if x[0]+x[1]+x[2] != n]
     
     print(nums)
+
+# Hackerrank problem link --> https://www.hackerrank.com/challenges/list-comprehensions/
