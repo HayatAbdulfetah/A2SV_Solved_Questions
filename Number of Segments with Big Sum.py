@@ -14,3 +14,5 @@ for right in range(n):
         left += 1
 
 print(count)
+
+# Codeforces problem solution
