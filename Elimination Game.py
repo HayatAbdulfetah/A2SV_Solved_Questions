@@ -7,14 +7,11 @@ class Solution:
         left_to_right = True
 
         while remaining > 1:
-
             if left_to_right or remaining % 2 == 1:
+                current += step
 
-                current+=step
-
-            step*=2
-            remaining//=2
-
+            step *= 2
+            remaining //= 2
             left_to_right = not left_to_right
         
         return current
