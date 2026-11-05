@@ -1,5 +1,4 @@
 class RecentCounter:
-
     def __init__(self):
         self.records = []
         self.start = 0
