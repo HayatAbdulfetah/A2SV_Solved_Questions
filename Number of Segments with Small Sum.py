@@ -15,5 +15,3 @@ for right in range(n):
     total += (right - left + 1)
 
 print(total)
-
-# Codeforces problem solution
