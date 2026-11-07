@@ -40,7 +40,8 @@ for _ in range(n):
           result += haystack[l]
           l += 1
         result += num
-    result += haystack[l:]
+    result += haystack[l]
+    
     print(result)
 
 # Codeforces prblem link --> https://codeforces.com/problemset/problem/2055/E
