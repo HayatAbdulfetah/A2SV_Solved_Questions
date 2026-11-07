@@ -44,4 +44,4 @@ for _ in range(n):
     
     print(result)
 
-# Codeforces prblem link --> https://codeforces.com/problemset/problem/2055/E
+# Codeforces prblem link --> https://codeforces.com/problemset/problem/2174/A
